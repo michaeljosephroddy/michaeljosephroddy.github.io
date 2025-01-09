@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "Building a blog website with GitHub Pages and Jekyll"
-date: 2024-07-16 12:49:56 +0100
-categories: jekyll githubpages
+title:  "Welcome to Jekyll!"
+date:   2025-01-09 11:03:40 +0000
+categories: jekyll update
 ---
-With GitHub Pages and Jekyll, you can easily setup and host a static website. 
-
-GitHub Pages is a free hosting service offered by GitHub. It allows you to deploy static sites in minutes with little code or configuration.
-
-Jekyll is a static site generator. It takes text written in Markdown and uses HTML layouts to create your site.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
