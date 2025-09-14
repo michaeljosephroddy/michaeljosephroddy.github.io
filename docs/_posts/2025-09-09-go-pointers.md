@@ -33,7 +33,7 @@ To define a standard int variable in go, we can do the following:
 var num int = 10 
 ```
 If you print `num` you will just get `10` printed to the terminal because its a standard varible and it doesnt store a memory address for the data.
-So when you use `num` it will just get the value of the data sotred in it, not anyhting else.
+So when you use `num` it will just get the value of the data stored in it, not anyhting else.
 
 Here I've set the variable memory location to be of type "pointer to an int value", we use `*` to denote and also dereference a pointer.
 We will use this variable to store the address of `num` from above, see the example below:
