@@ -4,6 +4,8 @@ title: "Understanding Archive Files: .zip vs .tar | Made Simple"
 categories: blog programming tar zip
 ---
 
+# A Quick Guide To Compressed File Types: zip and tar
+
 Hey, today I'm going to do a short article on compression file types and how to use them on Ubuntu Linux.
 
 So what are compressed files like .tar or .zip files? Well both of these file types are what we would call archive files, they store files as a collection.
